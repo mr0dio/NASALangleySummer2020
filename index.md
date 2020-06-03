@@ -1,8 +1,3 @@
----
-layout: workshop      # DON'T CHANGE THIS.
-# More detailed instructions (including how to fill these variables for an
-# online workshop) are available at
-# https://carpentries.github.io/workshop-template/customization/index.html
 venue: NASA Langley Research Center Teams
 address: Online via Teams
 country: USA
@@ -17,15 +12,6 @@ instructor: ["Michelle Rodio"]
 helper: ["Elizabeth Gregory"] 
 email: ["michelle.e.rodio@nasa.gov","elizabeth.d.gregory@nasa.gov"]    
 
-{% comment %}
-HEADER
-
-Edit the values in the block above to be appropriate for your workshop.
-If the value is not 'true', 'false', 'null', or a number, please use
-double quotation marks around the value, unless specified otherwise.
-And run 'make workshop-check' *before* committing to make sure that changes are good.
-{% endcomment %}
-
 INTRODUCTION
 
 {% if site.carpentry == "swc" %}
@@ -35,7 +21,6 @@ INTRODUCTION
 {% elsif site.carpentry == "lc" %}
 {% include lc/intro.html %}
 {% endif %}
-
 
 AUDIENCE
 
