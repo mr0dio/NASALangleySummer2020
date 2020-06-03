@@ -3,7 +3,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "NASA Teams"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+venue: "Online via Teams (Link Sent Separately)"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 country: "USA"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "English"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
 latitude: "37.082580"        # decimal latitude of workshop venue (use https://www.latlong.net/)
